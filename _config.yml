@@ -1,9 +1,0 @@
-title: PPDS Supplementary Material
-author: Socorro Esther Dominguez Vidana
-logo: ecosystem_big.png
-execute:
-  execute_notebooks: force
-
-# References bibtex
-bibtex_bibfiles:
-  -references.bib

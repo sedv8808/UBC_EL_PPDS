@@ -1,5 +1,0 @@
-format: jb-book
-root: UBC_EL_PPDS
-chapters: 
-- file: Module1class
-- file: Module2class
